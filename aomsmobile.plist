@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://aomsmobile.ipa</string>  
+                    <string>https://github.com/hdd1982/aomsapp/blob/master/aomsmobile.ipa?raw=true</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
@@ -23,7 +23,7 @@
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string><span style="font-family: Arial, Helvetica, sans-serif;">aomsapp</span><span style="font-family: Arial, Helvetica, sans-serif;"></string></span>  
+                <string>aoms-app</string>
             </dict>  
         </dict>  
     </array>  
